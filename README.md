@@ -33,3 +33,5 @@ The weights of these terms (style weight, content weight, total variation weight
 In the provided implementation, this entire process is handled in PyTorch with a user-friendly command-line interface. Users can specify their own content and style images or run a built-in --demo mode that generates synthetic images for demonstration purposes. The script saves both the final stylized image and the training loss values so results can be analyzed further.
 
 NST has a wide range of applications, from digital art creation and advertising to film production and social media filters. It demonstrates the creative side of AI, showing that deep learning models can not only classify and detect objects but also generate entirely new visual experiences by blending artistic expression with photographic realism.
+
+<img width="288" height="216" alt="Image" src="https://github.com/user-attachments/assets/d4850829-4c82-4361-8ec4-6ac6d19d63c6" />
